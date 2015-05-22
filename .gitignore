@@ -31,3 +31,6 @@ platforms
 
 # IONIC Plugin directory
 plugins
+
+#Webstorm settings
+.idea
